@@ -4,8 +4,11 @@
     "packages/*"
   ],
   "scripts": {
+    "build": "turbo build",
     "check:format": "prettier --check .",
-    "check:format:fix": "prettier --write ."
+    "check:format:fix": "prettier --write .",
+    "dev": "turbo dev",
+    "start": "turbo start"
   },
   "devDependencies": {
     "prettier": "^3.6.2",
