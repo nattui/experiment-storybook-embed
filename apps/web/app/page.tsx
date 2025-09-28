@@ -1,7 +1,7 @@
 export default function Home() {
   const STORYBOOK = {
     BUTTON:
-      "https://experiment-storybook-embed-storyboo.vercel.app/iframe.html?args=&globals=&id=example-page--logged-out&viewMode=story",
+      "https://experiment-storybook-embed-storyboo.vercel.app/iframe.html?args=&globals=&id=stories-button--docs&viewMode=story",
   }
 
   return (
