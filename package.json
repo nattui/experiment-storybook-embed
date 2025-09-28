@@ -1,6 +1,7 @@
 {
   "workspaces": [
-    "apps/*"
+    "apps/*",
+    "packages/*"
   ],
   "scripts": {
     "check:format": "prettier --check .",
